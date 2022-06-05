@@ -1,7 +1,7 @@
 secrets.json
-*.jpg
-*.png
 source/*.png
 source/*.jpg
 output/*.png
 output/*.jpg
+*.jpg
+*.png
