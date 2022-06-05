@@ -1,0 +1,5 @@
+secrets.json
+source/*.png
+source/*.jpg
+output/*.png
+output/*.jpg
