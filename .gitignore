@@ -1,7 +1,5 @@
 secrets.json
-source/*.png
-source/*.jpg
-output/*.png
-output/*.jpg
 *.jpg
 *.png
+memo.txt
+__pycache__/
