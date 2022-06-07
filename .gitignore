@@ -1,5 +1,7 @@
 secrets.json
 *.jpg
+*.jpeg
+*.gif
 *.png
 memo.txt
 __pycache__/
